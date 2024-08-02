@@ -13,7 +13,7 @@ Welcome to **Greeden**! Our e-commerce platform offers a delightful experience f
 **JavaScript:** Powers interactive elements and enhances the functionality of our website, making navigation and shopping intuitive.
 
 # How to View
-Visit [link] to explore the Greeden website. Feel free to browse the products and reach out for collaborations, feedback, or any inquiries. We look forward to connecting with you!
+Visit https://manikandansridharan.github.io/Greenden-Tailwind/ to explore the Greeden website. Feel free to browse the products and reach out for collaborations, feedback, or any inquiries. We look forward to connecting with you!
 
 # Contributing
 We welcome contributions to help improve Greeden. If you're skilled in HTML, Tailwind CSS, JavaScript, or have feature suggestions, we appreciate your input! Fork this repository, make your changes, and submit a pull request to contribute.
